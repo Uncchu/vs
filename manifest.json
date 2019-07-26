@@ -1,0 +1,38 @@
+{
+  "name": "VoniSusanto.com",
+  "short_name": "VoniSusanto",
+  "start_url": "https://www.Vonisusanto.com/?m=1",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "VoniSusanto.com adalah blog pribadi penulis muda asal Nagari Talang, Kabupaten Solok, Sumatera Barat Indonesia. VoniSusanto.com berisi artikel pilihan bermanfaat dari Voni Susanto.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-uluZtt_ffaY/XTpmCUHC7lI/AAAAAAAAAH4/0RSLNM_3Zrs5rse1tYeYC7V6F0x3RSDAACLcBGAs/s320/Logo5VS.jpeg",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-uluZtt_ffaY/XTpmCUHC7lI/AAAAAAAAAH4/0RSLNM_3Zrs5rse1tYeYC7V6F0x3RSDAACLcBGAs/s320/Logo5VS.jpeg",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-uluZtt_ffaY/XTpmCUHC7lI/AAAAAAAAAH4/0RSLNM_3Zrs5rse1tYeYC7V6F0x3RSDAACLcBGAs/s320/Logo5VS.jpeg",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-uluZtt_ffaY/XTpmCUHC7lI/AAAAAAAAAH4/0RSLNM_3Zrs5rse1tYeYC7V6F0x3RSDAACLcBGAs/s320/Logo5VS.jpeg",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-uluZtt_ffaY/XTpmCUHC7lI/AAAAAAAAAH4/0RSLNM_3Zrs5rse1tYeYC7V6F0x3RSDAACLcBGAs/s320/Logo5VS.jpeg",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-uluZtt_ffaY/XTpmCUHC7lI/AAAAAAAAAH4/0RSLNM_3Zrs5rse1tYeYC7V6F0x3RSDAACLcBGAs/s320/Logo5VS.jpeg",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-uluZtt_ffaY/XTpmCUHC7lI/AAAAAAAAAH4/0RSLNM_3Zrs5rse1tYeYC7V6F0x3RSDAACLcBGAs/s320/Logo5VS.jpeg",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
